@@ -1,0 +1,9 @@
+{
+  "name": "emailhistory",
+  "version": "1.0.0",
+  "description": "Email History - Excel upload and records",
+  "scripts": {
+    "start": "node backend/server.js",
+    "seed": "node backend/scripts/seed-user.js"
+  }
+}
